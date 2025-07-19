@@ -7,5 +7,8 @@ public class Test {
 
         System.out.println("Da.Ce ati facut azi? ");
         System.out.println("OF, am avut lectii de dimineata! Dar tu?");
+
+        System.out.println("Am avut o zi usoara si nu mam deranjat prea tare azi.");
+
     }
 }
