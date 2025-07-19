@@ -10,5 +10,6 @@ public class Test {
 
         System.out.println("Am avut o zi usoara si nu mam deranjat prea tare azi.");
 
+        System.out.println("Cristiana");
     }
 }
